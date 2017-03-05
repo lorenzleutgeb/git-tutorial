@@ -1,36 +1,42 @@
-# git-tutorial
+# Git Tutorial
 
-FIXME: description
+This Tutorial will guide you making your first steps in using Git and refresh your knowledge about functions in Clojure.
 
-## Installation
+Before drilling right down the rabbithole, let's get a big picture of what we're trying to achieve in the following steps. We will ...
 
-Download from http://example.com/FIXME.
+ 1. look into a problem scenario that motivates *why* we want to use Git.
+ 2. find out what Git is, and *how* it solves for us.
+ 3. *install* Git.
+ 4. create a separate copy of this repository by *forking* it.
+ 4. learn how to actually *fetch code from GitHub* using Git, not only boring download buttons.
+ 5. write a function in Clojure.
+ 6. use Git to *push* our newly written function back to GitHub.
 
-## Usage
+### Prerequisites
 
-FIXME: explanation
+Before starting this tutorial, you should make sure that you ...
 
-    $ java -jar git-tutorial-0.1.0-standalone.jar [args]
+ 1. have a GitHub account and are logged in.
+ 2. understand the concept of a function (in Clojure).
 
-## Options
+If any of the two above is not a definite "Yes, I am ready!" for you, please go ahead and immediately sort it out. Maybe find others to help you.
 
-FIXME: listing of options this app accepts.
+## Steps 
 
-## Examples
+### Why Git?
 
-...
+### How does Git work?
 
-### Bugs
+### Installing Git
 
-...
+### Forking a Repository
 
-### Any Other Sections
-### That You Think
-### Might be Useful
+### Fetching code from GitHub
 
-## License
+### Writing a function in Clojure
 
-Copyright © 2017 FIXME
+### Pushing changes to GitHub
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+## Common Questions
+
+## Pointers
